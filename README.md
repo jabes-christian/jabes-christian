@@ -4,11 +4,11 @@
 
 ### Sobre mim
 
-Sou desenvolvedor focado em back-end, automação de processos e soluções com Python. Meu principal objetivo é criar sistemas robustos, eficientes e automatizados que resolvam problemas reais.
+Sou desenvolvedor de RPA e automações de processos, com foco em criar soluções que otimizam tarefas e aumentam a eficiência. Também atuo em inteligência artificial e desenvolvimento back-end, sempre buscando aplicar tecnologia de forma estratégica e inovadora.
 
 Tenho domínio avançado em Python e utilizo frameworks como FastAPI e Flask para desenvolvimento de APIs RESTful, com integração de ferramentas como SQLAlchemy, Alembic, além de bancos de dados relacionais (PostgreSQL, Oracle, SQL Server) e NoSQL (MongoDB, Redis).
 
-Na área de automação, desenvolvo com ferramentas como UiPath, BotCity, n8n e frameworks como Selenium, Playwright e PyAutoGUI — criando bots e fluxos automatizados para tarefas repetitivas e processos empresariais.
+Na área de automação, desenvolvo com ferramentas como UiPath, Power Automation, AutomationEdge, BotCity, n8n e frameworks como Selenium, Playwright e PyAutoGUI — criando bots e fluxos automatizados para tarefas repetitivas e processos empresariais.
 
 Também atuo com soluções baseadas em IA, utilizando LangChain, LangGraph e Creaw AI, além de bibliotecas como Pandas para análise de dados. Faço uso constante de Git/GitHub, Docker e Docker Compose para versionamento e conteinerização dos meus projetos.
 
