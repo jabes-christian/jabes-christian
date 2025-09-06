@@ -6,7 +6,7 @@
 
 Sou desenvolvedor de RPA e automações de processos, com foco em criar soluções que otimizam tarefas e aumentam a eficiência. Também atuo em inteligência artificial e desenvolvimento back-end, sempre buscando aplicar tecnologia de forma estratégica e inovadora.
 
-Tenho domínio avançado em Python e utilizo frameworks como FastAPI e Flask para desenvolvimento de APIs RESTful, com integração de ferramentas como SQLAlchemy, Alembic, além de bancos de dados relacionais (PostgreSQL, Oracle, SQL Server) e NoSQL (MongoDB, Redis).
+Tenho domínio avançado em Python e utilizo frameworks como FastAPI e Flask para desenvolvimento de APIs RESTful, com integração de ferramentas como SQLAlchemy, Alembic, além de bancos de dados relacionais (PostgreSQL, Oracle, SQL Server, SQLite) e NoSQL (MongoDB, Redis).
 
 Na área de automação, desenvolvo com ferramentas como UiPath, Power Automation, AutomationEdge, BotCity, n8n e frameworks como Selenium, Playwright e PyAutoGUI — criando bots e fluxos automatizados para tarefas repetitivas e processos empresariais.
 
