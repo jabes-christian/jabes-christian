@@ -4,11 +4,12 @@
 
 ### Sobre mim
 
-💻 Desenvolvedor de RPA e automações, focado em transformar tarefas repetitivas em processos inteligentes
-⚡ Experiência com Python (FastAPI, Flask, SQLAlchemy, Pandas) e bancos relacionais e NoSQL
-🤖 Trabalho com ferramntas como AutomationEdge, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
-🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI e integrações de de API's 
-🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real
+- 💻 Desenvolvedor de RPA e automações, focado em transformar tarefas repetitivas em processos inteligentes
+- ⚡ Experiência com Python (FastAPI, Flask, SQLAlchemy, Pandas) e bancos relacionais e NoSQL
+- 🤖 Trabalho com ferramntas como AutomationEdge, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
+- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI e integrações de de API's 
+- 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real
+
 
 ## Minhas skills 
 
