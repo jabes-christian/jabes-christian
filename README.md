@@ -1,6 +1,6 @@
 # 🧑‍💻 Olá a todos, eu sou **Jabes Christian**
 
-**`Automation Developer IA`**
+**`Backend & Automation Developer`**
 
 ### Sobre mim
 
