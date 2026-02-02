@@ -5,10 +5,10 @@
 ### Sobre mim
 
 - 💻 Desenvolvedor de Backend e RPA, focado em transformar tarefas repetitivas em processos inteligentes
-- ⚡ Experiência com Python e Java e bancos relacionais e NoSQL
+- ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL
 - 🤖 Trabalho com ferramentas como AutomationEdge, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
-- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC e Microservices
-- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI
+- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices
+- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI, Agno
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real
 
 
