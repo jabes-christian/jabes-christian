@@ -1,4 +1,4 @@
-# 🧑‍💻 Olá a todos, eu sou **Jabes Christian**
+# 🧑‍💻 Olá, eu sou **Jabes Christian**
 
 **`Backend & Automation Developer`**
 
