@@ -6,7 +6,7 @@
 
 - 💻 Desenvolvedor de Backend e RPA, focado em transformar tarefas repetitivas em processos inteligentes
 - ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL
-- 🤖 Trabalho com ferramentas como AutomationEdge, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
+- 🤖 Trabalho com ferramentas como AutomationEdge, UiPath, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices
 - 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI, Agno
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real
@@ -85,14 +85,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter"
-    title="Jupyter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
 <img 
     align="left" 
