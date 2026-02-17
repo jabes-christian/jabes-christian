@@ -18,7 +18,7 @@
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -26,7 +26,7 @@
     align="left" 
     alt="Python"
     title="Python" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -34,7 +34,7 @@
     align="left" 
     alt="Selenium" 
     title="Selenium"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -42,7 +42,7 @@
     align="left" 
     alt="Playwright"
     title="Playwright" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
@@ -50,7 +50,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -58,7 +58,7 @@
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -66,7 +66,7 @@
     align="left" 
     alt="FastAPI" 
     title="FastAPI"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
@@ -74,7 +74,7 @@
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -82,7 +82,7 @@
     align="left" 
     alt="SQLite" 
     title="SQLite"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
@@ -90,7 +90,7 @@
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -98,7 +98,7 @@
     align="left" 
     alt="Redis" 
     title="Redis"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
@@ -106,7 +106,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -114,7 +114,7 @@
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -138,22 +138,3 @@
     </a>
 </p>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jabes-christian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jabes-christian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
