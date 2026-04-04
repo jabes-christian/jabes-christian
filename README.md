@@ -2,15 +2,18 @@
 
 **`Backend & Automation Developer`**
 
+---
+
 ### Sobre mim
 
-- 💻 Desenvolvedor Backend e RPA, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes
-- ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL
-- 🤖 Trabalho com ferramentas como UiPath, AutomationEdge, n8n, e frameworks como Selenium, Playwright e outras ferramentas de automação
-- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices
-- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI, Agno
-- 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real
+- 💻 Desenvolvedor Backend e RPA, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
+- ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL.
+- 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, n8n) e frameworks como (Selenium, Playwright) e outras ferramentas de Automação.
+- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
+- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI, Agno.
+- 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real.
 
+---
 
 ## Minhas skills 
 
