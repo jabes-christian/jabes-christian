@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-- 💻 Desenvolvedor Backend e RPA, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
+- 💻 Desenvolvedor Especialista em RPA/IA com foco em Backend, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
 - ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL.
 - 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, n8n) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
