@@ -10,7 +10,7 @@
 - ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL.
 - 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, n8n) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
-- 🧠 Interesse em IA aplicada, usando LangChain, LangGraph, CrewAI, Agno.
+- 🧠 Interesse em IA aplicada, usando SpringAI, LangChain, LangGraph, CrewAI e Agno.
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real.
 
 ---
