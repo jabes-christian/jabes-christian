@@ -7,9 +7,10 @@
 ### Sobre mim
 
 - 💻 Desenvolvedor Especialista em RPA/IA com foco em Backend, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
-- ⚡ Experiência com Python e Java e Bancos Relacionais e NoSQL.
-- 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, n8n) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
-- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
+- ⚡ Experiência com Java, Python, C# e Bancos Relacionais e NoSQL.
+- 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, Blue Prism) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
+- 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI, .NET) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
+- 🛠️ Vivência em práticas de DevOps, CI/CD e controle de versão utilizando Git, Docker, Azure e Azure DevOps.
 - 🧠 Interesse em IA aplicada, usando SpringAI, LangChain, LangGraph, CrewAI e Agno.
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real.
 
@@ -21,7 +22,7 @@
     align="left" 
     alt="Java"
     title="Java" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -29,7 +30,7 @@
     align="left" 
     alt="Python"
     title="Python" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -37,7 +38,7 @@
     align="left" 
     alt="Selenium" 
     title="Selenium"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -45,7 +46,7 @@
     align="left" 
     alt="Playwright"
     title="Playwright" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
@@ -53,7 +54,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -61,7 +62,7 @@
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -69,7 +70,7 @@
     align="left" 
     alt="FastAPI" 
     title="FastAPI"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
@@ -77,7 +78,7 @@
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -85,7 +86,7 @@
     align="left" 
     alt="SQLite" 
     title="SQLite"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -93,7 +94,7 @@
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -101,7 +102,7 @@
     align="left" 
     alt="Redis" 
     title="Redis"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
@@ -109,7 +110,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -117,9 +118,25 @@
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="45px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Grafana" 
+    title="Grafana"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
 
 <br/>
