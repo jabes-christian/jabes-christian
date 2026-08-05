@@ -1,12 +1,12 @@
 # 🧑‍💻 Olá, eu sou **Jabes Christian**
 
-**`Backend & Automation Developer`**
+**`Software Engineer`**
 
 ---
 
 ### Sobre mim
 
-- 💻 Desenvolvedor Especialista em RPA/IA com foco em Backend, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
+- 💻 Software Engineer especialista em RPA, IA & Desenvolvimento Backend, focado em desenvolver aplicações robustas e automatizar tarefas repetitivas em processos inteligentes.
 - ⚡ Experiência com Java, Python, C# e Bancos Relacionais e NoSQL.
 - 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, Blue Prism) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI, .NET) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
