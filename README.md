@@ -11,7 +11,7 @@
 - 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, Blue Prism) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI, .NET) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
 - 🛠️ Vivência em práticas de DevOps, CI/CD e controle de versão utilizando Git, Docker, Azure e Azure DevOps.
-- 🧠 Interesse em IA aplicada, usando SpringAI, LangChain, LangGraph, CrewAI e Agno em aplicações de AI Agents, metodologias como RAG, MCPs.
+- 🧠 Interesse em IA aplicada, usando SpringAI, LangChain, LangGraph, CrewAI e Agno em aplicações de AI Agents, RAG, MCPs.
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real.
 
 ---
