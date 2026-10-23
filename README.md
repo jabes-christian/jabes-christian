@@ -22,7 +22,7 @@
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -30,7 +30,7 @@
     align="left" 
     alt="Python"
     title="Python" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -38,7 +38,7 @@
     align="left" 
     alt="Selenium" 
     title="Selenium"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -46,7 +46,7 @@
     align="left" 
     alt="Playwright"
     title="Playwright" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
@@ -54,7 +54,7 @@
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -62,7 +62,7 @@
     align="left" 
     alt="FastAPI" 
     title="FastAPI"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
@@ -70,23 +70,16 @@
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
     alt="Redis" 
     title="Redis"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
@@ -94,7 +87,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -102,7 +95,7 @@
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -110,15 +103,15 @@
     align="left" 
     alt="Azure" 
     title="Azure"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <img 
     align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="40px" 
+    alt="Terraform" 
+    title="Terraform"
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
 />
@@ -126,7 +119,7 @@
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
