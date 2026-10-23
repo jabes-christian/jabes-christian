@@ -10,7 +10,7 @@
 - ⚡ Experiência com Java, Python, C# e Bancos Relacionais e NoSQL.
 - 🤖 Dominio em ferramentas de RPA líderes (UiPath, AutomationEdge, Blue Prism) e frameworks como (Selenium, Playwright) e outras bibliotecas de Automação e Web Scraping.
 - 💻 Conhecimentos em Frameworks como (Spring Boot, FastAPI, .NET) e integrações de de API's e arquiteturas MVC, Monolítica e Microservices.
-- 🛠️ Vivência em práticas de DevOps, CI/CD e controle de versão utilizando Git, Docker, Azure e Azure DevOps.
+- 🛠️ Vivência em práticas de DevOps, como CI/CD, Git, Docker, Azure e Azure DevOps, Terraform.
 - 🧠 Experiência em IA aplicada, usando SpringAI, LangChain, LangGraph, CrewAI e Agno em aplicações de AI Agents, RAG, MCPs.
 - 🚀 Sempre buscando desafios, aprendizados e soluções tecnológicas com impacto real.
 
@@ -22,7 +22,7 @@
     align="left" 
     alt="Java"
     title="Java" 
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -30,7 +30,7 @@
     align="left" 
     alt="Python"
     title="Python" 
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -38,7 +38,7 @@
     align="left" 
     alt="Selenium" 
     title="Selenium"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 />
@@ -46,7 +46,7 @@
     align="left" 
     alt="Playwright"
     title="Playwright" 
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
@@ -54,7 +54,7 @@
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -62,7 +62,7 @@
     align="left" 
     alt="FastAPI" 
     title="FastAPI"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
@@ -70,16 +70,15 @@
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
 />
 <img 
     align="left" 
     alt="Redis" 
     title="Redis"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
@@ -87,7 +86,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -95,7 +94,7 @@
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -103,7 +102,7 @@
     align="left" 
     alt="Azure" 
     title="Azure"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
@@ -111,7 +110,7 @@
     align="left" 
     alt="Terraform" 
     title="Terraform"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
 />
@@ -119,7 +118,7 @@
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    width="45px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
