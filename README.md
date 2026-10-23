@@ -84,14 +84,6 @@
 />
 <img 
     align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Redis" 
     title="Redis"
     width="40px" 
@@ -121,6 +113,14 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
 />
 <img 
     align="left" 
